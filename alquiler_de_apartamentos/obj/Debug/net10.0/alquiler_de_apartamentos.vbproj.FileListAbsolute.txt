@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\bin\Debug\net10.0\alquiler_de_apartamentos.exe
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\bin\Debug\net10.0\alquiler_de_apartamentos.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\bin\Debug\net10.0\alquiler_de_apartamentos.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\bin\Debug\net10.0\alquiler_de_apartamentos.dll
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\bin\Debug\net10.0\alquiler_de_apartamentos.pdb
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\obj\Debug\net10.0\alquiler_de_apartamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\obj\Debug\net10.0\alquiler_de_apartamentos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\obj\Debug\net10.0\alquiler_de_apartamentos.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\obj\Debug\net10.0\alquiler_de_apartamentos.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\obj\Debug\net10.0\alquiler_de_apartamentos.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\obj\Debug\net10.0\alquiler_de_apartamentos.dll
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\obj\Debug\net10.0\refint\alquiler_de_apartamentos.dll
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\obj\Debug\net10.0\alquiler_de_apartamentos.pdb
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\obj\Debug\net10.0\alquiler_de_apartamentos.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\alquiler_de_apartamentos\alquiler_de_apartamentos\obj\Debug\net10.0\ref\alquiler_de_apartamentos.dll
